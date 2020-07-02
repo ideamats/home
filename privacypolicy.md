@@ -1,4 +1,9 @@
-### Privacy Policy
+---
+layout: page
+title: Privacy Policy
+permalink: /policy/
+---
+
 
 The developer of this app does not collect, store or publish any user data through the app. All data are stored locally on the device where the developer do not have access to.
 
