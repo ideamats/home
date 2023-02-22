@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Apps
-permalink: /apps/
+permalink: /home/apps/
 ---
 
 * Color Mixer

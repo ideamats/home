@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-permalink: /policy/
+permalink: /home/policy/
 ---
 
 
