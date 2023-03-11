@@ -27,7 +27,7 @@ url: "https://apps.ideamats.com" # the base hostname & protocol for your site, e
 include: app-ads.txt
 
 # Build settings
-remote-theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
