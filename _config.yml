@@ -23,7 +23,7 @@ email: ideamats@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Apps driven by ideas
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://apps.ideamats.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ideamats.github.io/home/" # the base hostname & protocol for your site, e.g. http://example.com
 include: app-ads.txt
 
 # Build settings
