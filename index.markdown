@@ -4,7 +4,7 @@
 
 layout: home
 header:
-  image: /home/ideamats_header.jpg
+  image: /ideamats_header.jpg
 ---
 
 under construction
