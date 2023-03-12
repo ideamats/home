@@ -21,4 +21,4 @@ feature-row:
     url: https://play.google.com/store/apps/details?id=com.ideamats.sketchanywhere
 ---
 
-under construction
+{% include feature_row %}
