@@ -25,6 +25,9 @@ feature-row:
     title: Sketch Anywhere
     url: https://play.google.com/store/apps/details?id=com.ideamats.sketchanywhere
     excerpt: "Test"
+intro: test test
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
