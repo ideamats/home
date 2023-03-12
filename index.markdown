@@ -12,7 +12,13 @@ header:
       url: https://play.google.com/store/apps/dev?id=7500620090617409572
     - label: App Store
       url: https://apps.apple.com/us/developer/ideamatters/id475310080
-
+feature-row:
+  - title: Color Mixer Android
+    url: https://play.google.com/store/apps/details?id=com.ideamats.colormixer
+  - title: Color Mixer iOS
+    url: https://apps.apple.com/us/app/colormixer-mix-unmix-convert/id1398134243
+  - title: Sketch Anywhere
+    url: https://play.google.com/store/apps/details?id=com.ideamats.sketchanywhere
 ---
 
 under construction
