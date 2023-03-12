@@ -6,7 +6,7 @@ title: Idea Matters
 excerpt: Apps driven by ideas.
 layout: splash
 header:
-  image: /ideamats_header_4096x576.jpg
+  overlay_image: /ideamats_header_4096x576.jpg
   actions: 
     - label: Google Play
       url: https://play.google.com/store/apps/dev?id=7500620090617409572
