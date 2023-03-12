@@ -4,7 +4,7 @@
 
 layout: splash
 header:
-  image: /ideamats_header.jpg
+  image: /ideamats_header_4096x576.jpg
 ---
 
 under construction
