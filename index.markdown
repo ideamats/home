@@ -16,12 +16,15 @@ feature-row:
   - image_path: /icon_colormixer.png
     title: Color Mixer Android
     url: https://play.google.com/store/apps/details?id=com.ideamats.colormixer
+    excerpt: "Test"
   - image_path: /icon_colormixer.png
     title: Color Mixer iOS
     url: https://apps.apple.com/us/app/colormixer-mix-unmix-convert/id1398134243
+    excerpt: "Test"
   - image_path: /icon_colormixer.png
     title: Sketch Anywhere
     url: https://play.google.com/store/apps/details?id=com.ideamats.sketchanywhere
+    excerpt: "Test"
 ---
 
 {% include feature_row %}
