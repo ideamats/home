@@ -8,8 +8,10 @@ layout: splash
 header:
   overlay_image: /ideamats_header.jpg
   actions: 
-    - label: Google Play
+    - label: Play Store
       url: https://play.google.com/store/apps/dev?id=7500620090617409572
+    - label: App Store
+      url: https://apps.apple.com/us/developer/ideamatters/id475310080
 
 ---
 
